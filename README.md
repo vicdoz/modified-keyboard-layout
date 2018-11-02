@@ -6,7 +6,7 @@
 
 ### macOS
 
-1. Copy `` into:
+1. Copy `aukey_vowels.keyboard` into:
 	- `/Library/Keyboard Layouts/` to install the layout for all users
 	- `~/Library/Keyboard Layouts/` to install the layout only for the current user.
 2. Add the layout as an input source by navigating to _System Preferences > Keyboard > Input Sources_. Click the add button, search by "Other" and install
