@@ -1,5 +1,7 @@
 # A Spanish keyboard layout
 
+![Layout](docs/layout.png)
+
 ## Installation
 
 ### macOS
