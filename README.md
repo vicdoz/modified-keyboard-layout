@@ -1,7 +1,7 @@
 # A Spanish keyboard layout
 
 ![Layout](docs/layout.png)
-
+![keyboard](docs/Aukey-KM-G7.jpg)
 ## Installation
 
 ### macOS
