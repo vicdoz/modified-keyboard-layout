@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<keyboard group="0" id="10103" name="aukey_vowels" maxout="1">
+<keyboard group="0" id="10111" name="aukey_vowels11" maxout="1">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
 		<layout first="18" last="18" mapSet="984" modifiers="f4"/>
@@ -56,7 +56,7 @@
 			<key code="11" output="b"/>
 			<key code="12" output="q"/>
 			<key code="13" output="w"/>
-			<key code="14" output="e"/>
+			<key code="14" action="14"/>
 			<key code="15" output="r"/>
 			<key code="16" action="19"/>
 			<key code="17" output="t"/>
@@ -168,7 +168,7 @@
 			<key code="11" output="B"/>
 			<key code="12" output="Q"/>
 			<key code="13" output="W"/>
-			<key code="14" output="E"/>
+			<key code="14" action="7"/>
 			<key code="15" output="R"/>
 			<key code="16" action="12"/>
 			<key code="17" output="T"/>
