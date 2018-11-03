@@ -1,5 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-11-03 at 01:11 (CET)-->
 <keyboard group="0" id="10111" name="aukey_v1" maxout="1">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -196,7 +197,7 @@
 			<key code="39" action="7"/>
 			<key code="40" output="K"/>
 			<key code="41" output="Ñ"/>
-			<key code="42" output="|"/>
+			<key code="42" output="Ç"/>
 			<key code="43" output=";"/>
 			<key code="44" output="_"/>
 			<key code="45" action="9"/>
@@ -420,7 +421,7 @@
 			<key code="39" action="0"/>
 			<key code="40" output="˚"/>
 			<key code="41" output="…"/>
-			<key code="42" output="«"/>
+			<key code="42" output="*"/>
 			<key code="43" output="≤"/>
 			<key code="44" output="¿"/>
 			<key code="45" output="ñ"/>
@@ -489,8 +490,6 @@
 			<key code="125" output="&#x001F;"/>
 			<key code="126" output="&#x001E;"/>
 		</keyMap>
-		<keyMap index="4">
-			<key code="0" output="Á"/>
 			<key code="1" output="Í"/>
 			<key code="2" output="Î"/>
 			<key code="3" output="Ï"/>
@@ -520,10 +519,10 @@
 			<key code="27" output="—"/>
 			<key code="28" output="°"/>
 			<key code="29" output="‚"/>
-			<key code="30" output="’"/>
+			<key code="30" output="*"/>
 			<key code="31" output="Ó"/>
 			<key code="32" output="Ú"/>
-			<key code="33" output="”"/>
+			<key code="33" output="+"/>
 			<key code="34" output="Í"/>
 			<key code="35" output="∏"/>
 			<key code="36" output="&#x000D;"/>
